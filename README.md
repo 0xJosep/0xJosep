@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Youssef
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=F7F7F7&width=435&lines=Cybersec;Cloud;Dev)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=0xJosep&color=blueviolet&style=flat-square&label=Profile+Views)
