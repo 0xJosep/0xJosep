@@ -15,7 +15,7 @@
 
 <!-- Current Activity -->
 ## 🎵 Currently Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jyosepp)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/kimczj)
 
 ## 🛠️ Technologies & Tools
 
