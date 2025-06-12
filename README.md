@@ -8,16 +8,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology you're learning]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **oss.now**
+- 🌱 I'm currently learning **Tauri (Rust)**
+- 💬 Ask me about **Cybersec/**
+- 📫 How to reach me: **boukhrissysf@gmail.com**
 
 <!-- Current Activity -->
 ## 🎵 Currently Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/josep)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jyosepp)
 
 ## 🛠️ Technologies & Tools
 
@@ -57,15 +55,6 @@
   
 ![Snake animation](https://github.com/0xJosep/0xJosep/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0xJosep&theme=onedark&column=7&margin-w=15&margin-h=15)
-
-</div>
-
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -74,8 +63,8 @@
 
 ```typescript
 const currentFocus = {
-    learning: ["Next.js", "TypeScript", "GraphQL"],
-    building: ["Portfolio Website", "Chat Application"],
+    learning: ["Next.js", "Tauri", "Rust"],
+    building: ["OSS to-do desktop app"],
     reading: ["Clean Code", "System Design Interview"],
     goals: ["Contribute to Open Source", "Build SaaS Product"]
 };
@@ -85,18 +74,10 @@ const currentFocus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💝 Support Me
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/0xJosep)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefboukhriss)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJosep)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://0xjosep.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boukhrissysf@gmail.com)
 
 </div>
 
