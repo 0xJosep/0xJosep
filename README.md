@@ -37,7 +37,7 @@
 ## 🐍 Contribution Snake
 <div align="center">
   
-![Snake animation](https://github.com/0xJosep/0xJosep/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/0xJosep/0xJosep/blob/output/github-snake-dark.svg)
 
 ## 🔗 Connect with Me
 
