@@ -1,8 +1,9 @@
-# Hi there! 👋 I'm Youssef
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=0xJosep&color=blueviolet&style=flat-square&label=Profile+Views)
-
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xJosep&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xJosep&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJosep&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **oss.now**
