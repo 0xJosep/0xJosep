@@ -30,28 +30,14 @@
 
 <!-- Activity Graph -->
 ## 📈 Activity Graph
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xJosep&theme=tokyo-night)](https://github.com/0xJosep)
+![image](https://github.com/user-attachments/assets/76753304-1bef-4cde-b389-adc44fde2209)
+
 
 <!-- Contribution Snake -->
 ## 🐍 Contribution Snake
 <div align="center">
   
 ![Snake animation](https://github.com/0xJosep/0xJosep/blob/output/github-contribution-grid-snake.svg)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Focus
-
-```typescript
-const currentFocus = {
-    learning: ["Next.js", "Tauri", "Rust"],
-    building: ["OSS to-do desktop app"],
-    reading: ["Clean Code", "System Design Interview"],
-    goals: ["Contribute to Open Source", "Build SaaS Product"]
-};
-```
 
 ## 🔗 Connect with Me
 
