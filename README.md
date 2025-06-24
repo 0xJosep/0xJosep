@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Youssef
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=F7F7F7&width=435&lines=Cybersec;Cloud;Dev)](https://git.io/typing-svg)
-
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=0xJosep&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -15,7 +12,7 @@
 
 <!-- Current Activity -->
 ## 🎵 Currently Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/kimczj)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kimczj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kimczj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ## 🛠️ Technologies & Tools
 
@@ -26,7 +23,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <!-- Add more badges as needed from: https://shields.io/ -->
 
