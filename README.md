@@ -16,7 +16,7 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://linkedin.com/in/youssefboukhriss)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xJosep) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://0xjosep.com) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boukhrissysf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefboukhriss)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xJosep) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://0xjosep.com) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boukhrissysf@gmail.com)
 
 </div>
 
