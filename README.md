@@ -7,24 +7,11 @@
 
 - 🔭 I'm currently working on **oss.now**
 - 🌱 I'm currently learning **Tauri (Rust)**
-- 💬 Ask me about **Cybersec/**
 - 📫 How to reach me: **boukhrissysf@gmail.com**
 
 <!-- Current Activity -->
 ## 🎵 Currently Listening To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kimczj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## 🛠️ Technologies & Tools
-
-<!-- Tech Stack Badges -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<!-- Add more badges as needed from: https://shields.io/ -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kimczj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify.com/user/kimczj)
 
 ## 📊 GitHub Stats
 
