@@ -70,36 +70,6 @@ now    = "building native tools for the AI-agent era"
 
 </div>
 
-## 📈 Telemetry
-
-<div align="center">
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=0xJosep&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=0xJosep&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJosep&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJosep&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/0xJosep/0xJosep/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/0xJosep/0xJosep/output/github-snake.svg" alt="Contribution snake" />
-</picture>
-
-</div>
-
-## 🎵 On rotation
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=kimczj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/kimczj)
-
-</div>
-
 ---
 
 <div align="center">
